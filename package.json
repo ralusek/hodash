@@ -1,6 +1,6 @@
 {
   "name": "hodash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript utility functions a-la Lodash.",
   "main": "index.js",
   "scripts": {
