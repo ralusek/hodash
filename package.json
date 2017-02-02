@@ -1,0 +1,21 @@
+{
+  "name": "hodash",
+  "version": "1.0.0",
+  "description": "JavaScript utility functions a-la Lodash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Savigliano",
+  "keywords": [
+    "lodash",
+    "hodash",
+    "ES6",
+    "Map",
+    "Set",
+    "utility",
+    "utilities",
+    "tools"
+  ],
+  "license": "ISC"
+}
