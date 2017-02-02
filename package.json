@@ -17,5 +17,10 @@
     "utilities",
     "tools"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hodash.flatten-to-set": "^1.0.1",
+    "hodash.is-map": "^1.0.0",
+    "hodash.is-set": "^1.0.0"
+  }
 }
